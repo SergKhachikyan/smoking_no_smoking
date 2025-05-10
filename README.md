@@ -51,6 +51,9 @@ In the `smoking_detection.ipynb` notebook, the following steps are implemented:
 - Final prediction output
 ```
 
+![smoke_nosmokejpg](https://github.com/user-attachments/assets/a6cea61c-fcc1-4db7-8cf5-07a845ce06d2)
+
+
 ### 5. 🧪 Example Features (columns in dataset)
 ```
 - Age
